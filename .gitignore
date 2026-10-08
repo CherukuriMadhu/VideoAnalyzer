@@ -1,0 +1,14 @@
+﻿.venv/
+__pycache__/
+*.pyc
+
+.env
+
+uploaded_video.mp4
+audio.wav
+
+.streamlit/
+.pytest_cache/
+
+sample video.mp4
+test_video.mp4
