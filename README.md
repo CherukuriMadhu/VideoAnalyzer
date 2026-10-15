@@ -1,4 +1,4 @@
-# 🎥 AI Video Analyzer
+# 🎥 AI Video Analyzer.
 
 An AI-powered video analysis system that understands both **visual content and spoken audio** from videos.
 
