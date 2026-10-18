@@ -247,5 +247,5 @@ By combining computer vision, speech recognition, and large language models, the
 **CHERUKURI MADHU**
 
 ## Clone
---blash
+--bash
 git clone https://github.com/CherukuriMadhu/VideoAnalyzer.git
