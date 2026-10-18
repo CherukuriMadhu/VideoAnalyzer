@@ -244,4 +244,8 @@ By combining computer vision, speech recognition, and large language models, the
 
 ## 👩‍💻 Author
 
-**Pavani Aluri**
+**CHERUKURI MADHU**
+
+## Clone
+--blash
+git clone https://github.com/CherukuriMadhu/VideoAnalyzer.git
