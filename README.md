@@ -5,7 +5,6 @@ An AI-powered video analysis system that understands both **visual content and s
 The system extracts important video frames, analyzes them using a vision model, transcribes speech using Whisper, generates an AI summary, creates automatic chapters, and allows users to search for important moments using natural-language questions.
 
 ---
-
 ## ✨ Features
 
 - 🎞️ **Video Frame Analysis** — Extracts representative frames from the video.
@@ -237,7 +236,6 @@ Do not upload `.env` files containing private credentials.
 ## 🎯 Project Goal
 
 The goal of this project is to build a **multimodal AI system that can understand videos instead of treating them only as collections of frames or audio**.
-
 By combining computer vision, speech recognition, and large language models, the system provides a more useful way to understand, summarize, and search video content.
 
 ---
