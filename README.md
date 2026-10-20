@@ -242,9 +242,7 @@ By combining computer vision, speech recognition, and large language models, the
 
 ---
 
-## 👩‍💻 Author
 
-**CHERUKURI MADHU**
 
 ## Clone Repo
 ```bash
