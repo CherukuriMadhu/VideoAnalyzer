@@ -2,7 +2,7 @@
   
 An AI-powered video analysis system that understands both **visual content and spoken audio** from youtube videos.
 
-The system extracts important video frames, analyzes them using a vision model, transcribes speech using Whisper, generates an AI summary, creates automatic chapters, and allows users to search for important moments using natural-language questions.
+This system extracts important video frames, analyzes them using a vision model, transcribes speech using Whisper, generates an AI summary, creates automatic chapters, and allows users to search for important moments using natural-language questions.
 
 ---
 ## ✨ Features
